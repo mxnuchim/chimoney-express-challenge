@@ -1,0 +1,1 @@
+//Database model would be here bu since it's a simple api, I didn't set that up. feel free to test with postman or thunder client
